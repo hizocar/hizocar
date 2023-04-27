@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Walmart :)
+- 🔭 I'm currently working as a Data Scientist at Walmart :)
 - 📫 How to reach me: hizocar@gmail.com
 <!--
 **hizocar/hizocar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
