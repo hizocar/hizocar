@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🔭 I'm currently working as a Data Scientist at Walmart :)
 - 📫 How to reach me: hizocar@gmail.com
+
+<iframe src="https://calendar.google.com/calendar/embed?src=hizocar%40gmail.com&ctz=America%2FSantiago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <!--
 **hizocar/hizocar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
